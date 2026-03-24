@@ -1,4 +1,4 @@
-# Assignment 1 — Perception
+# Assignment 1 — Semantic Landmark Extraction and Classification
 
 **Course:** RAS 598 Mobile Robotics  
 **Student:** Atharv Kulkarni  
