@@ -6,7 +6,7 @@ University: Arizona State University
 
 ## Assignments
 
-- [Assignment 1](./Assignment_1) — Perception
+- [Assignment 1](./Assignment_1) — Semantic Landmark Extraction and Classification
 - Assignment 2 — TBD
 - Assignment 3 — TBD
 
